@@ -1,7 +1,5 @@
 # movieExpo
-This is a IMDB clone website
-
-You may see the live demo here: http://amitmungare.me/movieExpo/
+This is a IMDB clone
 
 This a IMDB clone website made using HTML, CSS, JavaScript.
 
